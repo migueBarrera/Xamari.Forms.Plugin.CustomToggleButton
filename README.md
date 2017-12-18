@@ -1,0 +1,1 @@
+Xamarin.Forms.Plugin.CustomToggleButton
